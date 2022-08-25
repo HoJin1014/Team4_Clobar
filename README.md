@@ -1,7 +1,7 @@
 # Team4_Clobar [10week Tableau_TeamProject]
 # Subject - Crime
 
-이호진 (LHJ) - 팀장
+이호진 (LHJ) - 조장
 - 지능 범죄
 
 김수아 (KSA) - 조원
