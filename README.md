@@ -1,6 +1,7 @@
 # Team4_Clobar [10week Tableau_TeamProject]
 # Subject - Crime
 
+# 네잎클로바 조
 이호진 (LHJ) - 조장
 - 지능 범죄
 - 지능 범죄의(사기, 횡령)이 시각화로 확인해본 결과 많이 나타남
