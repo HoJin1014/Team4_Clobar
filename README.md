@@ -18,6 +18,7 @@
 방영찬 (BYC) - 조원
 - 사이버 폭력
 - 사이버폭력을 학생과 성인으로 구분해 피해경험, 가해경험, 사이버폭력의 피・가해 유형, 심리상태, 가족친구와의 관계가 어떤지에 대한 통계자료를 바탕으로 예방방법을 추론
+- https://public.tableau.com/app/profile/yeongchan/viz/pj10th_8_26_3/Project_tb?publish=yes
 
 조건영 (CGY) - 조원
 - 디지털 성범죄
