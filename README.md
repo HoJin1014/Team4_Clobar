@@ -22,3 +22,4 @@
 - 학생과 성인의 인식 비교
 - 디지털 성범죄를 년도별로 얼마나 증감했는지 알아보기
 - 한국 사람의 성에 대한 인식 변화시키기 위한 방안제시
+- https://public.tableau.com/app/profile/.53467562/viz/_16617480935020/sheet11?publish=yes
