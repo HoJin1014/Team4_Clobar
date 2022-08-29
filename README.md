@@ -10,7 +10,7 @@
 - https://public.tableau.com/app/profile/lee.ho.jin/viz/_16617479191980/1_2?publish=yes
 
 김수아 (KSA) - 조원
-- 폭력
+- 폭력범죄
 - 범죄요일, 범행동기, 범죄자와 피해자 성별 연령 등을 비교해서 폭력범죄 예방 방법 분석
 - https://public.tableau.com/app/profile/.58825498/viz/TeamProject_SuA/1?publish=yes
 
